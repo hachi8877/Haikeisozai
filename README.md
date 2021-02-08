@@ -17,16 +17,13 @@
 ### ターゲットユーザ
 
 イラストまたはカメラを趣味にしている人
+フリー素材を使用する人
 
 ### 主な利用シーン
 
 イラストの背景素材が必要な時
 
-## 設計書
-
-随時追記
-
-## チャレンジ要素一覧
+## 機能一覧
 
 https://docs.google.com/spreadsheets/d/1ZCaJ6i50nmQn4mfMiJETkV3FM1N0Mb50j-go5eq9Tps/edit#gid=0
 
